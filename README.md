@@ -4,4 +4,5 @@
   
 Hey, looks like you stumbled across EzScrape!  
   
-EzScrape is not quite ready yet. Come back later!
+EzScrape is a work in progress. You most likely won't see it for a month.  
+Come back later!
