@@ -209,7 +209,7 @@ from bs4 import BeautifulSoup
 # EzScrape is licensed under the Apache License 2.0.      #
 # License is listed above.                                #
 ###########################################################
-# #
+#             https://ezscrape.weebly.com/                #
 ###########################################################
 
 class Scraper:
