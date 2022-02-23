@@ -37,3 +37,5 @@ EzScrape Demo Code:
   oofclass = str(oofclass)
   
   print(oofclass)
+ 
+ idk how to use rst help me
