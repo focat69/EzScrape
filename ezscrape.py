@@ -208,6 +208,7 @@ from bs4 import BeautifulSoup
 # EzScrape v1.0.0 (https://github.com/Code1Tech/EzScrape) #
 # EzScrape is licensed under the Apache License 2.0.      #
 # License is listed above.                                #
+# Support server coming out soon!                         #
 ###########################################################
 #             https://ezscrape.weebly.com/                #
 ###########################################################
